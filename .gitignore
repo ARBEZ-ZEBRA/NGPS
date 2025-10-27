@@ -1,0 +1,9 @@
+data/**
+__pycache__/
+.vscode/
+
+*.msgpack
+*.png
+*kan*
+*Kan*
+*KAN*
